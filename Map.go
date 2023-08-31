@@ -32,5 +32,3 @@ fmt.Println("Key:", key, "Value:", value)
 // Length of the map
 fmt.Println("Length of the map:", len(myMap))
 }
-3
-rd M
